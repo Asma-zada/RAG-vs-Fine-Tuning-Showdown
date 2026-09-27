@@ -1,0 +1,2 @@
+Cloud security protects data and applications stored in the cloud.
+Cloud providers use security methods such as access controls and encryption.

@@ -1,0 +1,2 @@
+Cloud storage allows users to save files online.
+Users can access their files from different devices using the internet.

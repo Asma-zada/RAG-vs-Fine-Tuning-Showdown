@@ -1,0 +1,5 @@
+{"id": "cloud_computing.txt_0", "source": "cloud_computing.txt", "text": "Cloud computing means using computers and services over the internet. Users can use cloud services without keeping everything on their own computer."}
+{"id": "cloud_security.txt_0", "source": "cloud_security.txt", "text": "Cloud security protects data and applications stored in the cloud. Cloud providers use security methods such as access controls and encryption."}
+{"id": "cloud_storage.txt_0", "source": "cloud_storage.txt", "text": "Cloud storage allows users to save files online. Users can access their files from different devices using the internet."}
+{"id": "serverless.txt_0", "source": "serverless.txt", "text": "Serverless computing allows developers to run code without managing servers. The cloud provider manages the servers for them."}
+{"id": "virtual_machine.txt_0", "source": "virtual_machine.txt", "text": "A virtual machine is a computer created using software. It can work like a normal computer but runs on another physical computer."}

@@ -1,0 +1,2 @@
+Serverless computing allows developers to run code without managing servers.
+The cloud provider manages the servers for them.

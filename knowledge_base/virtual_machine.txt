@@ -1,0 +1,2 @@
+A virtual machine is a computer created using software.
+It can work like a normal computer but runs on another physical computer.
